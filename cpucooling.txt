@@ -1,0 +1,23 @@
+Water 3.0 Riing
+180
+Thermaltake
+true
+360
+
+Water 2.0 Extreme
+120
+Thermaltake
+true
+240
+
+Hyper 212 EVO
+25
+Cooler Master
+false
+89
+
+Hyper 212 RGB Black Edition
+40
+Cooler Master
+false
+89

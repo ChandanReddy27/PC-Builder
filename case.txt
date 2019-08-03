@@ -1,0 +1,23 @@
+H500i - Compact ATX Mid-Tower
+110
+NZXT
+true
+Mini-ITX / Micro ATX / ATX 
+
+Crystal Series 570X ATX Mid Tower
+160
+Corsair
+true
+Mini-ITX / MicroATX / ATX
+
+Carbide Series 678C ATX Mid Tower
+200
+Corsair
+true
+Mini ITX / Micro ATX / ATX / E-ATX
+
+MasterBox MB511 RGB ATX Mid-Tower
+90
+Cooler Master
+true
+Mini-ITX / Micro ATX / ATX

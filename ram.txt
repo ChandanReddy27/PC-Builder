@@ -1,0 +1,29 @@
+Ripjaws X Series
+65
+G.Skill
+1600
+16
+
+Fury Black
+75
+Kingston
+1866
+16
+
+TridentZ RGB Series
+210
+G.Skill
+3200
+32
+
+Trident Z Royal Series
+200
+G.Skill
+3600
+32
+
+Dominator Platinum
+250
+Corsair
+4000
+16

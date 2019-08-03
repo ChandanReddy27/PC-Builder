@@ -1,0 +1,35 @@
+RMx Series RM750x
+120
+Corsair
+750
+Gold
+
+Cobra series RX-600AE-M
+70
+RAIDMAX
+600
+Gold
+
+GX-F Series GXF550
+70
+COUGAR
+550
+Gold
+
+CXM Series
+60
+Corsair
+550
+Bronze
+
+CXM (2015) Series
+55
+Corsair
+450
+Bronze
+
+VS Series
+50
+Corsair
+550
+Bronze

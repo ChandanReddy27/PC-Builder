@@ -1,0 +1,53 @@
+Ryzen 5 2600
+150
+AMD
+3.4
+3.9
+6C/12T
+true
+AM4
+
+Ryzen 7 2700
+210
+AMD
+3.2
+4.1
+8C/16T
+true
+AM4
+
+Ryzen 3 2200G
+85
+AMD
+3.5
+3.7
+4C/8T
+true
+AM4
+
+Core i9-9900K
+500
+Intel
+3.6
+5
+8C/16T
+true
+LGA 1151
+
+Core i7-9700K
+400
+Intel
+3.6
+4.9
+8C/16T
+true
+LGA 1151
+
+Core i5-9400F
+150
+Intel
+2.9
+4.1
+6C/12T
+false
+LGA 1151
